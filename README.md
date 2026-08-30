@@ -5,7 +5,7 @@
 
   <!-- TYPING SVG ANIMATION -->
   <a href="https://github.com/Mithesh6369894902">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&height=50&lines=Artificial+Intelligence+%26+Deep+Learning+Architect;Cybersecurity+Researcher+%26+Supply+Chain+Immunity;Physics-Informed+Digital+Twin+%26+ClimateTech+Systems;Full-Stack+Architect+(FastAPI+%7C+Node.js+%7C+Flutter)" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=neon&center=true&vCenter=true&width=800&height=50&lines=Artificial+Intelligence+%26+Deep+Learning+Architect;Cybersecurity+Researcher+%26+Supply+Chain+Immunity;Physics-Informed+Digital+Twin+%26+ClimateTech+Systems;Full-Stack+Architect+(FastAPI+%7C+Node.js+%7C+Flutter)" alt="Typing Animation" />
   </a>
 
   <br />
