@@ -33,7 +33,7 @@
 ```gcode
 > INITIALIZING SYSTEM PROTOCOL...
 > OPERATOR   : D. MITHESH
-> DESIGNATION: AI Systems Architect & Cybersecurity Specialist
+> DESIGNATION: AI Systems Architect & AI and Ml engineer
 > CORE FOCUS : Autonomous AI Platforms | Physics-AI Digital Twins | Supply Chain Immune Systems
 > STATUS     : Active Research & Engineering
 ```
