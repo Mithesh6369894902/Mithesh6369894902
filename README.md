@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- FUTURISTIC DYNAMIC HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=260&section=header&text=D.%20MITHESH&fontSize=70&fontAlign=50&fontAlignY=35&desc=AI%20SYSTEMS%20ARCHITECT%20%7C%20CYBERSECURITY%20%7C%20FULL-STACK&descSize=20&descAlign=50&descAlignY=65&stroke=00f2fe&strokeWidth=2&fontColor=00f2fe&descColor=00f2fe" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=260&section=header&text=D.%20MITHESH&fontSize=70&fontAlign=50&fontAlignY=35&desc=AI%20SYSTEMS%20ARCHITECT%20%7C%20CYBERSECURITY%20%7C%20FULL-STACK&descSize=20&descAlign=50&descAlignY=65&stroke=00f2fe&strokeWidth=2&fontColor=00f2fe&descColor=00f2fe" width="100%" alt="Header Banner" />
 
   <!-- TYPING SVG ANIMATION -->
   <a href="https://github.com/Mithesh6369894902">
