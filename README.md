@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- FUTURISTIC DYNAMIC HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=neon&customColorList=0,2,10,30,50&height=260&section=header&text=D.%20MITHESH&fontSize=70&fontAlign=50&fontAlignY=35&desc=%E2%9A%A1%20AI%20SYSTEMS%20ARCHITECT%20%7C%20CYBERSECURITY%20%7C%20FULL-STACK%20%E2%9A%A1&descSize=20&descAlign=50&descAlignY=65&stroke=00f2fe&strokeWidth=2" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=260&section=header&text=D.%20MITHESH&fontSize=70&fontAlign=50&fontAlignY=35&desc=AI%20SYSTEMS%20ARCHITECT%20%7C%20CYBERSECURITY%20%7C%20FULL-STACK&descSize=20&descAlign=50&descAlignY=65&stroke=00f2fe&strokeWidth=2&fontColor=00f2fe&descColor=00f2fe" width="100%" alt="Header Banner" />
 
   <!-- TYPING SVG ANIMATION -->
   <a href="https://github.com/Mithesh6369894902">
@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/Email-mithesh1892%40gmail.com-00F2FE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
     </a>
     <a href="https://github.com/Mithesh6369894902">
-      <img src="https://img.shields.io/badge/GitHub-Mithesh6369894902-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+      <img src="https://img.shields.io/badge/GitHub-Mithesh6369894902-00F2FE?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub Badge" />
     </a>
     <a href="https://github.com/Mithesh6369894902?tab=repositories">
       <img src="https://img.shields.io/badge/Repositories-19_Projects-7F00FF?style=for-the-badge&logo=git&logoColor=white" alt="Repos Badge" />
@@ -214,7 +214,7 @@ Welcome to my digital command center. I specialize in engineering **high-perform
       <img src="https://img.shields.io/badge/Direct_Email-mithesh1892%40gmail.com-00F2FE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/Mithesh6369894902">
-      <img src="https://img.shields.io/badge/GitHub_Profile-Mithesh6369894902-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub_Profile-Mithesh6369894902-00F2FE?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub" />
     </a>
     <a href="https://github.com/Mithesh6369894902?tab=stars">
       <img src="https://img.shields.io/badge/Star_Projects-Explore_Repos-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Stars" />
