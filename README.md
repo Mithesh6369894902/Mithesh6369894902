@@ -28,7 +28,7 @@
 
 ---
 
-### 🌌 Executive Brief & Engineering Vision
+###  Executive Brief & Engineering Vision
 
 ```gcode
 > INITIALIZING SYSTEM PROTOCOL...
@@ -42,7 +42,7 @@ Welcome to my digital command center. I specialize in engineering **high-perform
 
 ---
 
-### ⚡ Core Specializations & Domain Expertise
+###  Core Specializations & Domain Expertise
 
 <table>
   <tr>
@@ -105,11 +105,11 @@ Welcome to my digital command center. I specialize in engineering **high-perform
 
 ---
 
-### 🚀 Featured Flagship Projects
+###  Featured Flagship Projects
 
 <br />
 
-#### 1. 🛢️ [WELLORA — Dual-Physics Digital Twin & Heavy Oil AI Copilot](https://github.com/Mithesh6369894902/WELLORA)
+#### 1.  [WELLORA — Dual-Physics Digital Twin & Heavy Oil AI Copilot](https://github.com/Mithesh6369894902/WELLORA)
 > **Domain:** Physics-Informed ML | Industrial AI | Digital Twins | Heavy Crude EOR  
 > **Tech Stack:** `TypeScript` `React` `FastAPI` `Python` `AI Copilot Engine`
 
@@ -119,7 +119,7 @@ Welcome to my digital command center. I specialize in engineering **high-perform
 
 ---
 
-#### 2. 🤖 [ÆTHERIUM AI Ecosystem — Modular Low-Code AI Platform](https://github.com/Mithesh6369894902/AETHERIUM-AI-Frontend)
+#### 2.  [ÆTHERIUM AI Ecosystem — Modular Low-Code AI Platform](https://github.com/Mithesh6369894902/AETHERIUM-AI-Frontend)
 > **Domain:** No-Code/Low-Code AI | NLP | Computer Vision | Financial Analytics  
 > **Tech Stack:** `Python` `FastAPI` `PyTorch` `OpenCV` `Streamlit` `REST API`  
 > **Repos:** [Frontend](https://github.com/Mithesh6369894902/AETHERIUM-AI-Frontend) | [Backend](https://github.com/Mithesh6369894902/AETHERIUM-AI-BACKEND)
@@ -129,7 +129,7 @@ Welcome to my digital command center. I specialize in engineering **high-perform
 
 ---
 
-#### 3. 🛡️ [MALWAREDNA-AI — Behavioral Immune System for Supply Chains](https://github.com/Mithesh6369894902/MALWAREDNA-AI)
+#### 3.  [MALWAREDNA-AI — Behavioral Immune System for Supply Chains](https://github.com/Mithesh6369894902/MALWAREDNA-AI)
 > **Domain:** Cybersecurity | Open-Source Security | Machine Learning Threat Modeling  
 > **Tech Stack:** `Python` `Behavioral Analysis` `Static/Dynamic Analysis` `Sandbox Engine`
 
@@ -138,7 +138,7 @@ Welcome to my digital command center. I specialize in engineering **high-perform
 
 ---
 
-#### 4. 🌊 [BlueCarbon AI — Ecosystem MRV & Carbon Credit Platform](https://github.com/Mithesh6369894902/Blue-Carbon-AI)
+#### 4.  [BlueCarbon AI — Ecosystem MRV & Carbon Credit Platform](https://github.com/Mithesh6369894902/Blue-Carbon-AI)
 > **Domain:** ClimateTech | Environmental Data Science | MRV Verification  
 > **Tech Stack:** `JavaScript` `Node.js` `GeoSpatial Analytics` `Environmental Models`
 
@@ -147,7 +147,7 @@ Welcome to my digital command center. I specialize in engineering **high-perform
 
 ---
 
-#### 5. 📈 [ALPHA-FLUX — Explainable Stock Analytics & Trading Intelligence](https://github.com/Mithesh6369894902/ALPHA-FLUX)
+#### 5. [ALPHA-FLUX — Explainable Stock Analytics & Trading Intelligence](https://github.com/Mithesh6369894902/ALPHA-FLUX)
 > **Domain:** FinTech | Time-Series Forecasting | Explainable AI (XAI)  
 > **Tech Stack:** `Python` `Scikit-Learn` `Financial Risk Models` `Interactive Dashboards`
 
@@ -156,7 +156,7 @@ Welcome to my digital command center. I specialize in engineering **high-perform
 
 ---
 
-#### 6. 🛠️ [codesanctuary — Autonomous Codebase & Server Restoration](https://github.com/Mithesh6369894902/codesanctuary-prototype)
+#### 6.  [codesanctuary — Autonomous Codebase & Server Restoration](https://github.com/Mithesh6369894902/codesanctuary-prototype)
 > **Domain:** Autonomous AI Agents | Code Reconstruction | Self-Healing Codebases  
 > **Tech Stack:** `Python` `Semantic Code Understanding` `Version Prediction`
 
@@ -164,7 +164,7 @@ Welcome to my digital command center. I specialize in engineering **high-perform
 
 ---
 
-#### 7. 🅿️ [ParkSpot — Real-Time Car Parking Land Rental System](https://github.com/Mithesh6369894902/parkspot)
+#### 7.  [ParkSpot — Real-Time Car Parking Land Rental System](https://github.com/Mithesh6369894902/parkspot)
 > **Domain:** Smart Cities | Full-Stack Backend & Mobile App  
 > **Tech Stack:** `Node.js` `Express` `MongoDB` `Flutter` `Dart` `Razorpay` `Leaflet Maps`  
 > **Repos:** [Backend REST API](https://github.com/Mithesh6369894902/parkspot) | [Flutter Mobile App](https://github.com/Mithesh6369894902/parkspot_mobile)
@@ -174,7 +174,7 @@ Welcome to my digital command center. I specialize in engineering **high-perform
 
 ---
 
-### 📊 Real-Time GitHub Analytics & Metrics
+###  Real-Time GitHub Analytics & Metrics
 
 <div align="center">
 
@@ -197,7 +197,7 @@ Welcome to my digital command center. I specialize in engineering **high-perform
 
 ---
 
-### 🎮 Contribution Snake Animation
+###  Contribution Snake Animation
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Mithesh6369894902/Mithesh6369894902/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
@@ -205,7 +205,7 @@ Welcome to my digital command center. I specialize in engineering **high-perform
 
 ---
 
-### 🌐 Connect & Collaborate
+###  Connect & Collaborate
 
 <div align="center">
 
